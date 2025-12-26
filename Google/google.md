@@ -1,2 +1,6 @@
 1. [Google Machine Learning Engineer Interview (questions, process, prep)](https://igotanoffer.com/blogs/tech/google-machine-learning-engineer-interview)
 2. [Interview Experience @ Google: Machine Learning SWE III [2024]](https://ihitsuperhuman.medium.com/interview-experience-google-machine-learning-swe-iii-2024-af44399f36d5)
+3. [25 Questions Asked by Google for Data Science Positions](https://www.kaggle.com/discussions/general/222952)
+4. [Google Data Scientist Interview Guide (2025) – Process, Questions & Preparation](https://www.interviewquery.com/interview-guides/google-data-scientist)
+5. [My Interview Experience at Google [L5 Offer]](https://medium.com/@rohitverma_87831/my-interview-experience-at-google-afc1080df175)
+6. [Google Data Scientist Interview Questions](https://bigtechinterviews.com/google-data-scientist-interview-questions/)
