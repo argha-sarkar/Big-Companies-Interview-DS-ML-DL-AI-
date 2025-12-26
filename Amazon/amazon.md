@@ -1,1 +1,6 @@
-
+1. [Amazon Data Scientist Interview (process, questions, prep)](https://igotanoffer.com/blogs/tech/amazon-data-science-interview)
+2. [Amazon Data Scientist Interview Guide (Process, Questions & Preparation Tips)](https://www.interviewquery.com/interview-guides/amazon-data-scientist)
+3. [Interviewed a Data Scientist at Amazon](https://www.linkedin.com/posts/avijayvargia_amazon-collab-datascience-activity-7225364845360033792-7BYn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACXpHPIBZKKPEhzWCMOjh91FW_8ezl_A6z4)
+4. [Amazon - Data Scientist (Offer)](https://leetcode.com/discuss/post/784569/amazon-data-scientist-offer-by-vulfgang1-36ob/)
+5. [Amazon Interview Experience for Applied Scientist](https://www.geeksforgeeks.org/interview-experiences/amazon-interview-experience-for-applied-scientist/)
+6. [Amazon Data Scientist Interview Guide (27 Questions Asked in 2025)](https://datalemur.com/blog/amazon-data-scientist-interview-guide)
