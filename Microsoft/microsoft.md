@@ -1,1 +1,6 @@
-
+1. [Microsoft Data Science Interview Guide [26 questions from 2025]](https://datalemur.com/blog/microsoft-data-science-interview)
+2. [Microsoft Interview Experience for Data Scientist](https://www.linkedin.com/posts/avijayvargia_microsoft-collab-interviewexperience-activity-7245404010390675457-Dt1l?utm_source=share&utm_medium=member_desktop&rcm=ACoAACXpHPIBZKKPEhzWCMOjh91FW_8ezl_A6z4)
+3. []()
+4. []()
+5. []()
+6. []()
