@@ -1,0 +1,1 @@
+1. [iQuanti Senior Analyst interview questions](https://www.glassdoor.co.in/Interview/iQuanti-Senior-Analyst-Interview-Questions-EI_IE665940.0,7_KO8,22.htm?countryRedirect=true#InterviewReview_98765332)
