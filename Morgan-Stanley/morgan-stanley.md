@@ -1,2 +1,5 @@
 1. [Interview Preparation](https://www.morganstanley.com/people-opportunities/students-graduates/resources/interview-preparation)
-2. 
+2. [Morgan Stanley Data Analyst Interview Questions + Guide in 2025](https://www.interviewquery.com/interview-guides/morgan-stanley-data-analyst)
+3. [Morgan Stanley Interview | Set 27 (For 2.5 Years Experienced)](https://www.geeksforgeeks.org/interview-experiences/morgan-stanley-interview-set-27-2-5-years-experienced/)
+4. [Morgan Stanley Data Analyst Interview](https://www.datainterview.com/blog/morgan-stanley-data-analyst-interview)
+5. [Morgan Stanley Machine Learning Engineer Interview](https://www.datainterview.com/blog/morgan-stanley-machine-learning-engineer-interview)
